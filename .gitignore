@@ -1,0 +1,6 @@
+venv/
+waggy-pet-shop-pro-website-template/
+.idea/
+__pycache_/
+.env
+media/
